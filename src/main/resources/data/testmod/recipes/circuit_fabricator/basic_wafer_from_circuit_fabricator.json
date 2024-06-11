@@ -1,0 +1,20 @@
+{
+  "type": "testmod:circuit_fabricator",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "testmod:raw_silicon"
+    },
+    {
+      "item": "testmod:raw_silicon"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "output": {
+    "item": "testmod:wafer_basic"
+  }
+}
